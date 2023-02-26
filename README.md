@@ -1,6 +1,6 @@
 # Monte_Carlo_Simulation
 
-This is a Python project that performs Monte Carlo simulations of the stock prices for Apple Inc. (AAPL) and Alphabet Inc. (GOOGL) using historical data. Monte Carlo simulation is a technique that uses random sampling to simulate complex systems or processes. In this case, the simulations are used to estimate the future stock prices of these two companies.
+This is a Python project that performs Monte Carlo simulations of the stock prices for Apple Inc. (AAPL) and Alphabet Inc. (GOOGL) using historical data. Monte Carlo simulation is a technique that uses random sampling to simulate complex systems or processes. In this case, the simulations are used to estimate the future stock prices of these two companies. The code is written on juptyer notebook and uses python packages to read data from yahoo finance.
 
 Contributing
 
